@@ -28,7 +28,7 @@ chainlit run app.py -w
 
 ## 系列文章
 
-本项目属于[《不用龙虾，我用100行代码做了一个AI Agent平台》]()文章使用的源码，关注公众号获取更多内容:
+本项目属于[《不用龙虾，我用100行代码做了一个AI Agent平台》](https://mp.weixin.qq.com/s/V-h3nKXGVBG2ud1RTTPxew)文章使用的源码，关注公众号获取更多内容:
 
 **AI Native启示录**
 
