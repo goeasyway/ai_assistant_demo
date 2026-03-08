@@ -21,6 +21,11 @@ chainlit run app.py -w
 ```
 启动后，浏览器会自动打开 Web 界面（默认地址：`http://localhost:8000`）。
 
+演示视频 ai_assistant_demo.mp4
+<video id="video" controls="" preload="none" poster="演示视频">
+    <source id="mp4" src="ai_assistant_demo.mp4" type="video/mp4">
+</videos>
+
 ## 系列文章
 
 本项目属于[《不用龙虾，我用100行代码做了一个AI Agent平台》]()文章使用的源码，关注公众号获取更多内容:
